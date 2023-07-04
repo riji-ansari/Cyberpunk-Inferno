@@ -1,0 +1,2 @@
+1
+speedBoost;1;increase player speed by 5 units;

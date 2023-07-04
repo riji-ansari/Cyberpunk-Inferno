@@ -1,0 +1,2 @@
+-Make sure all instances of all prefabs are up to date
+-solve the layer order issue

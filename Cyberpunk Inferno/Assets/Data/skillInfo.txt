@@ -1,0 +1,5 @@
+4
+Weapon Overload;1;+15%atk dmg, +20%ammo.velocity, -20%dmg resist;1;1.2;1.15;1.2;1;
+Quantum Processor;1;+20%move spd, +10% exp gain;1.2;1;1;1;1.1;
+Armored Chasis;2;+20%dmg resist, -20%move spd;0.8;1;1;0.8;1;
+System Upgrade;3;+10% to ALL: atk.dmg, ammo.velocity, dmg.resist, move.spd, exp.gain;1.1;1.1;1.1;1.1;1.1;

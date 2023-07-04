@@ -1,0 +1,18 @@
+weapon:
+https://www.mineimatorforums.com/index.php?/topic/7548-all-of-my-weaponsitems/
+
+relic:
+https://www.mineimatorforums.com/index.php?/topic/75547-ultimate-food-pack/
+
+armor:
+https://www.deviantart.com/balduranne/art/Warframe-Starters-656045707
+https://www.deviantart.com/balduranne/art/Robot-Player-Armors-425754251
+
+building, bars, shop_alert:
+ORIGINAL WORK
+
+chest:
+https://www.pixilart.com/art/chest-spritesheet-fb23d8f3041602a
+
+skills:
+https://www.spriters-resource.com/3ds/fireemblemawakening/sheet/63467/

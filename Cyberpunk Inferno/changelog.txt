@@ -1,0 +1,9 @@
+Basic Scene Switching (Menus and Levels)
+
+Changes:
+-GameManager and MenuManager handle switching scenes (used to toggle player menu or go to different levels)
+
+To Do:
+-The code is super duper rudimentary
+-We all need to sit down and figure out the program structure sometime
+-This version will be used for the Phase 1 demo
