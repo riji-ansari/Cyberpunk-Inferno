@@ -30,12 +30,3 @@ As you progress through the game, you will have the opportunity to acquire power
 
 5. Enjoy your journey through the cyberpunk-infused depths of Hell!
 
-## Contributions
-
-Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Let's collaborate to make Cyberpunk Inferno an even more immersive and enjoyable experience.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own purposes.
-
-Enjoy your descent into the Cyberpunk Inferno and may you find triumph amidst the chaos of Hell!
